@@ -165,6 +165,7 @@ Table of Contents
    * http://crackme.cenzic.com/kelev/view/home.php - Crack Me Bank
    * http://zero.webappsecurity.com/ - Zero Bank
    * http://demo.testfire.net/ - Altoro Mutual
+   * https://canhack.me/ - CanHackMe
 
 ## Labs
 
